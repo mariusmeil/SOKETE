@@ -39,7 +39,7 @@ nav li:active{
     box-shadow: 0px 0px;
     margin: 2px;
 }
-@media only screen and (max-width: 600px) and (orientation: portrait) {
+@media only screen and (max-width: 720px) and (orientation: portrait) {
     header ul {
         display: none;
     }
